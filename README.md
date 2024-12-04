@@ -1,5 +1,5 @@
 ### Info
-This repo contains code sample related to this tutorial: https://open.substack.com/pub/rovingdev/p/unlocking-docker-a-beginners-guide
+This repo contains code sample related to this tutorial: https://rovingdev.com/p/unlocking-docker-a-beginners-guide
 
 ### Example Usage:
 ```bash
