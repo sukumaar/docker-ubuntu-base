@@ -1,8 +1,9 @@
 ### Example Usage:
-`git clone https://github.com/sukumaar/docker-ubuntu-base.git`
-`cd docker-ubuntu-base`
-`docker  build  -t  docker-ubuntu-base:1  .`
-`docker run -it localhost/docker-ubuntu-base`
+```git clone https://github.com/sukumaar/docker-ubuntu-base.git
+cd docker-ubuntu-base
+docker build -t docker-ubuntu-base:1  .
+docker run -it localhost/docker-ubuntu-base
+```
 
 ### This Dockerfile contains:
 - ubuntu 24.04
