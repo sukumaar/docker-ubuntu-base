@@ -1,5 +1,9 @@
+### Info
+This repo contains code sample related to this tutorial: https://open.substack.com/pub/rovingdev/p/unlocking-docker-a-beginners-guide
+
 ### Example Usage:
-```git clone https://github.com/sukumaar/docker-ubuntu-base.git
+```bash
+git clone https://github.com/sukumaar/docker-ubuntu-base.git
 cd docker-ubuntu-base
 docker build -t docker-ubuntu-base:1  .
 docker run -it localhost/docker-ubuntu-base
